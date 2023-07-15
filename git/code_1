@@ -1,0 +1,13 @@
+git status
+git add название файла
+git status
+git commit –m "сообщение"
+git show
+git remote add origin ссылка
+git push –u origin main 
+
+cd .\Desktop\advertisement
+.\virtualEnviroment\Scripts\activate
+cd .\advertisement
+python manage.py runserver
+
